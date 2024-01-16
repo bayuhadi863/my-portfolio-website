@@ -101,7 +101,7 @@ const portfolios = [
     title: 'Movie App using TMDB API',
     img: '/react-movie/home-crop.png',
     githubLink: 'https://github.com/bayuhadi863/react-movie-app',
-    time: 'Aug 2027',
+    time: 'Aug 2023',
     member: 'Bayu Hadi Leksana',
     tech: ['React JS', 'Bootstrap', 'TMDB API'],
     description:
